@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62bb0d1a56dbd3a27124305c"
+  },
+  "id": 1001,
+  "title": "a",
+  "artist": "John",
+  "genre": "POP",
+  "length": 6,
+  "price": 80
+},{
+  "_id": {
+    "$oid": "62bb0e91f3792c1eab8aea76"
+  },
+  "id": 1001,
+  "title": "a",
+  "artist": "John",
+  "genre": "POP",
+  "length": 6,
+  "price": 80
+},{
+  "_id": {
+    "$oid": "62bb0e91f3792c1eab8aea77"
+  },
+  "id": 2000,
+  "title": "a",
+  "artist": "John",
+  "genre": "POP",
+  "length": 6,
+  "price": 80
+},{
+  "_id": {
+    "$oid": "62bb0e91f3792c1eab8aea78"
+  },
+  "id": 3000,
+  "title": "a",
+  "artist": "John",
+  "genre": "POP",
+  "length": 6,
+  "price": 80
+}]
